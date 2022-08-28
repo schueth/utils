@@ -1,0 +1,26 @@
+{
+  "name": "@schueth/utils",
+  "version": "0.1.0",
+  "description": "Utility tools intended for internal reuse, however ",
+  "main": "index.js",
+  "author": "Michael Schueth",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schueth/utils.git"
+  },
+  "keywords": [
+    "Utils",
+    "Schueth"
+  ],
+  "bugs": {
+    "url": "https://github.com/schueth/utils/issues"
+  },
+  "homepage": "https://github.com/schueth/utils#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
